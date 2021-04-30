@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857664866494",
+    "project_id": "mytutionteacher-da2fc",
+    "storage_bucket": "mytutionteacher-da2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857664866494:android:0757c10a9720f550bbf6ef",
+        "android_client_info": {
+          "package_name": "com.example.mytutionteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857664866494-rfkm8ir7kbukicm8jb2gc3118e538r7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnFx95ysPlZtjBIcfKfDHmby9Xv3tIfPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857664866494-rfkm8ir7kbukicm8jb2gc3118e538r7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
